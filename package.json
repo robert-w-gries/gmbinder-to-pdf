@@ -1,0 +1,16 @@
+{
+  "name": "gmbinder-to-pdf",
+  "version": "1.0.0",
+  "description": "Read gmbinder book from url and generate pdf",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rob Gries <robert.w.gries@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "html-to-image": "^1.6.1",
+    "puppeteer": "^9.0.0"
+  }
+}
